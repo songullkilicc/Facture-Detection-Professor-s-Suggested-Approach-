@@ -26,4 +26,4 @@ The aim was to test and compare various standard approaches, rather than creatin
 
 ## 📌 Note
 This project was implemented as part of the coursework requirements and mainly follows the **professor's guidance**.  
-For my **own algorithm and unique approach**, please check the other project folder: [My Custom Approach](../My-Approach/).
+For my **own algorithm and unique approach**, please check the other project folder: [My Custom Approach]https://github.com/songullkilicc/Fracture-Detection-Without-Machine-Learning-My-Approach-
